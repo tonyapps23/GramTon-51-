@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764622368373",
+    "project_id": "greenton-43d16",
+    "storage_bucket": "greenton-43d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764622368373:android:1ed411f24f28af5df2523c",
+        "android_client_info": {
+          "package_name": "com.tony_fire.greentopapporg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764622368373-jd9lptl672evmelt8tcvdo59asjobhr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMR6Khi3QYVHVb_ctV21-cYkKy2oJcos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764622368373-jd9lptl672evmelt8tcvdo59asjobhr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
